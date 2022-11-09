@@ -1,0 +1,15 @@
+C:\Users\Grant\source\repos\Roshambo\Roshambo\bin\Debug\net6.0\Roshambo.exe
+C:\Users\Grant\source\repos\Roshambo\Roshambo\bin\Debug\net6.0\Roshambo.deps.json
+C:\Users\Grant\source\repos\Roshambo\Roshambo\bin\Debug\net6.0\Roshambo.runtimeconfig.json
+C:\Users\Grant\source\repos\Roshambo\Roshambo\bin\Debug\net6.0\Roshambo.dll
+C:\Users\Grant\source\repos\Roshambo\Roshambo\bin\Debug\net6.0\Roshambo.pdb
+C:\Users\Grant\source\repos\Roshambo\Roshambo\obj\Debug\net6.0\Roshambo.csproj.AssemblyReference.cache
+C:\Users\Grant\source\repos\Roshambo\Roshambo\obj\Debug\net6.0\Roshambo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grant\source\repos\Roshambo\Roshambo\obj\Debug\net6.0\Roshambo.AssemblyInfoInputs.cache
+C:\Users\Grant\source\repos\Roshambo\Roshambo\obj\Debug\net6.0\Roshambo.AssemblyInfo.cs
+C:\Users\Grant\source\repos\Roshambo\Roshambo\obj\Debug\net6.0\Roshambo.csproj.CoreCompileInputs.cache
+C:\Users\Grant\source\repos\Roshambo\Roshambo\obj\Debug\net6.0\Roshambo.dll
+C:\Users\Grant\source\repos\Roshambo\Roshambo\obj\Debug\net6.0\refint\Roshambo.dll
+C:\Users\Grant\source\repos\Roshambo\Roshambo\obj\Debug\net6.0\Roshambo.pdb
+C:\Users\Grant\source\repos\Roshambo\Roshambo\obj\Debug\net6.0\Roshambo.genruntimeconfig.cache
+C:\Users\Grant\source\repos\Roshambo\Roshambo\obj\Debug\net6.0\ref\Roshambo.dll
